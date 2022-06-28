@@ -10,6 +10,20 @@ Resources for learning electronics and more.
 - [Uploading sketches Over-the-Air (OTA)](https://www.arduino.cc/en/Tutorial/ota-getting-started)
 - [How to connect your Arduino to Wi-Fi](https://www.deviceplus.com/arduino/how-to-connect-your-arduino-to-wi-fi/)
 
+## LEDs
+- [All About LEDs](https://learn.adafruit.com/all-about-leds/overview)
+  - What is an LED?
+  - What are LEDs used for?
+  - The LED datasheet
+  - Forward Voltage and KVL
+  - Revisiting Resistors
+  - Revisiting Volts
+  - Which to Adjust?
+  - Adjusting Brightness
+  - .... more
+- [‘Resistance’ of an LED](http://lednique.com/current-voltage-relationships/resistance-of-an-led/)
+- [LED Specifications: light emitting diode parameters](https://www.electronics-notes.com/articles/electronic_components/diode/light-emitting-diode-led-datasheet-specifications-parameters-characteristics.php#:~:text=Many%20LEDs%20will%20operate%20at,LED%20increases%20with%20increasing%20current.)
+
 ## Learning Electronics
 - [Notes on Electronics](electronics_notes.md)
   These notes serve as a quick way to learn electronics or a refresher for hobbiests, but do not replace a full course or textbook on electronics.  A proper textbook
