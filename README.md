@@ -3,6 +3,7 @@ Resources for learning electronics and more.
 
 ## Circuit Simulation and PCB design
 - [CircuitMaker](https://circuitmaker.com/)
+- [Getting Started With Circuit Maker](https://babbage.cs.qc.cuny.edu/courses/cs343/Circuit_Maker/)
 - [Using CircuitMaker](http://hades.mech.northwestern.edu/index.php/Using_CircuitMaker)
 
 ## Arduino
