@@ -24,6 +24,7 @@ Resources for learning electronics and more.
   - .... more
 - [‘Resistance’ of an LED](http://lednique.com/current-voltage-relationships/resistance-of-an-led/)
 - [LED Specifications: light emitting diode parameters](https://www.electronics-notes.com/articles/electronic_components/diode/light-emitting-diode-led-datasheet-specifications-parameters-characteristics.php#:~:text=Many%20LEDs%20will%20operate%20at,LED%20increases%20with%20increasing%20current.)
+- [LED Resistor Calculator](https://www.thegeekpub.com/calculators/led-resistor-calculator)
 
 ## Learning Electronics
 - [Notes on Electronics](electronics_notes.md)
