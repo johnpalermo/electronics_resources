@@ -26,6 +26,9 @@ Resources for learning electronics and more.
 - 🔗[LED Specifications: light emitting diode parameters](https://www.electronics-notes.com/articles/electronic_components/diode/light-emitting-diode-led-datasheet-specifications-parameters-characteristics.php#:~:text=Many%20LEDs%20will%20operate%20at,LED%20increases%20with%20increasing%20current.)
 - 🔗[LED Resistor Calculator](https://www.thegeekpub.com/calculators/led-resistor-calculator)
 
+## FPGAs
+- :link:[FPGA Tutorials](https://nandland.com/)
+
 ## Learning Electronics
 - 📘[Notes on Electronics](electronics_notes.md)
   These notes serve as a quick way to learn electronics or a refresher for hobbiests, but do not replace a full course or textbook on electronics.  A proper textbook
