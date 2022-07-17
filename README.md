@@ -29,6 +29,9 @@ Resources for learning electronics and more.
 ## FPGAs
 - :link:[FPGA Tutorials](https://nandland.com/)
 
+## ATMega328
+- 📘[Textbook on Microcontrollers (focusing on the ATMega328)](textbooks/microcontroller_course_textbook.pdf)
+
 ## Learning Electronics
 - 📘[Notes on Electronics](electronics_notes.md)
   These notes serve as a quick way to learn electronics or a refresher for hobbiests, but do not replace a full course or textbook on electronics.  A proper textbook
