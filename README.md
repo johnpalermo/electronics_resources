@@ -5,7 +5,9 @@ Resources for learning electronics and more.
 - 🔗[CircuitMaker](https://circuitmaker.com/)
 - 🔗[Getting Started With Circuit Maker](https://babbage.cs.qc.cuny.edu/courses/cs343/Circuit_Maker/)
 - 🔗[Using CircuitMaker](http://hades.mech.northwestern.edu/index.php/Using_CircuitMaker)
-
+- 🔗[Teach Me PCB](https://teachmepcb.com/)
+  Excellent site on learning PCB deisgn.  I'm enrolled in their courses.
+  
 ## Arduino
 - 🔗[How To Wirelessly Transmit Data on Arduino](https://www.digikey.ca/en/maker/blogs/2019/how-to-wirelessly-transmit-data-on-arduino)
 - 🔗[Uploading sketches Over-the-Air (OTA)](https://www.arduino.cc/en/Tutorial/ota-getting-started)
@@ -38,3 +40,7 @@ Resources for learning electronics and more.
   on electronics is recommended, such as **Introduction To Electronics by Earl Gates** and a proper course such as [Introduction to Electronics](https://www.coursera.org/learn/electronics) is also recommended.
 - 🔗[The Geek Pub](https://www.thegeekpub.com/)
   Excellent site on learning electronics. Select **LEARNING** on the top menu.
+
+## Learning Anlog Video Electronics
+- 🔗[Composite video decoding: Theory and practice](https://codeandlife.com/2012/10/09/composite-video-decoding-theory-and-practice/)
+  Excellent article on learning about composite video which also contains a project you can learn from.
