@@ -7,6 +7,8 @@ Resources for learning electronics and more.
 - 🔗[Using CircuitMaker](http://hades.mech.northwestern.edu/index.php/Using_CircuitMaker)
 - 🔗[Teach Me PCB](https://teachmepcb.com/)
   Excellent site on learning PCB deisgn.  I'm enrolled in their courses.
+- 🔗[Fritzing](https://fritzing.org/)
+  Make pretty 3D schematics with Arduino boards.
   
 ## Arduino
 - 🔗[How To Wirelessly Transmit Data on Arduino](https://www.digikey.ca/en/maker/blogs/2019/how-to-wirelessly-transmit-data-on-arduino)
