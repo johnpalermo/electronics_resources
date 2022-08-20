@@ -1,6 +1,16 @@
 # Electronics Resources
 Resources for learning electronics and more.
 
+## Current Projects
+
+## My USB Scope
+- Hantek 6022BE Digital
+    - Standard USBXITM interface, easily inserts into USBXITM housing to make up a combination instrument.
+    - Be suitable for notebook computer, product line maintenance, be used easily on business.
+    - High performance, 250MS/s real-time sampling, 20MHz-80MHz bandwidth.
+    - 23 measurement functions, PASS/FAIL Check, be suitable for technical application.
+    - Waveform average, persistence, intensity, invert, addition, subtraction, multiplication, division, X-Y plot.
+
 ## Circuit Simulation and PCB design
 - 🔗[CircuitMaker](https://circuitmaker.com/)
 - 🔗[Getting Started With Circuit Maker](https://babbage.cs.qc.cuny.edu/courses/cs343/Circuit_Maker/)
@@ -44,5 +54,12 @@ Resources for learning electronics and more.
   Excellent site on learning electronics. Select **LEARNING** on the top menu.
 
 ## Learning Anlog Video Electronics
+- 🔗[Realtime Composite Video Decoding with PicoScope](https://codeandlife.com/2012/07/31/realtime-composite-video-decoding-with-picoscope/)
+  Excellent article on learning about composite video which also contains a project you can learn from.
 - 🔗[Composite video decoding: Theory and practice](https://codeandlife.com/2012/10/09/composite-video-decoding-theory-and-practice/)
   Excellent article on learning about composite video which also contains a project you can learn from.
+  
+## Oscilloscopes
+- 🔗[Pico Oscilloscopes](https://www.picotech.com/oscilloscope/2000/picoscope-2000-overview)
+- 🔗[Measure Electronic Waves: How to Use an Oscilloscope](https://www.dummies.com/article/technology/electronics/general-electronics/measure-electronic-waves-how-to-use-an-oscilloscope-180231/)
+- 🔗[How to Use an Oscilloscope](https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all)
