@@ -1,6 +1,8 @@
 # Electronics Resources
 Resources for learning electronics and more.
 
+- 🔗[More here](https://johnpalermo.github.io/electronics/)
+
 ## Current Projects
 
 ## My USB Scope
@@ -41,9 +43,11 @@ Resources for learning electronics and more.
 - 🔗[LED Resistor Calculator](https://www.thegeekpub.com/calculators/led-resistor-calculator)
 
 ## FPGAs
-- :link: [FPGA Tutorials](https://nandland.com/)
-- :link: [Intel® MAX® 10 FPGA Development Kit](https://www.intel.ca/content/www/ca/en/products/details/fpga/development-kits/max/10m50.html)
-- :link: [Intel® MAX® 10 FPGA Development Kit (Mouser)](https://www.mouser.ca/ProductDetail/Intel-Altera/DK-DEV-10M50-A?qs=bKenfurwlslqr8ev6O9%2FIg%3D%3D)
+- 🔗 [FPGA Tutorials](https://nandland.com/)
+- 🔗 [Intel® MAX® 10 FPGA Development Kit](https://www.intel.ca/content/www/ca/en/products/details/fpga/development-kits/max/10m50.html)
+- 🔗 [Intel® MAX® 10 FPGA Development Kit (Mouser)](https://www.mouser.ca/ProductDetail/Intel-Altera/DK-DEV-10M50-A?qs=bKenfurwlslqr8ev6O9%2FIg%3D%3D)
+- 🔗 [Intel® FPGA Development Kits](https://www.intel.com/content/www/us/en/products/details/fpga/development-kits.html)
+- 🔗 [Spartan 7 Boards](https://www.xilinx.com/products/boards-and-kits/device-family/nav-spartan-7.html)
 
 ## ATMega328
 - 📘[Textbook on Microcontrollers (focusing on the ATMega328)](textbooks/microcontroller_course_textbook.pdf)
