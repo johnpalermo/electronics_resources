@@ -21,6 +21,8 @@ Resources for learning electronics and more.
   Excellent site on learning PCB deisgn.  I'm enrolled in their courses.
 - 🔗[Fritzing](https://fritzing.org/)
   Make pretty 3D schematics with Arduino boards.
+- 🔗[SnapEDA](https://www.snapeda.com/)
+  Download footprints for components.
   
 ## Arduino
 - 🔗[How To Wirelessly Transmit Data on Arduino](https://www.digikey.ca/en/maker/blogs/2019/how-to-wirelessly-transmit-data-on-arduino)
@@ -69,3 +71,13 @@ Resources for learning electronics and more.
 - 🔗[Pico Oscilloscopes](https://www.picotech.com/oscilloscope/2000/picoscope-2000-overview)
 - 🔗[Measure Electronic Waves: How to Use an Oscilloscope](https://www.dummies.com/article/technology/electronics/general-electronics/measure-electronic-waves-how-to-use-an-oscilloscope-180231/)
 - 🔗[How to Use an Oscilloscope](https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all)
+
+
+## VLSI chips
+- 🔗[Microscope ME580TC-PZ-2L-20MBI3](https://amscope.com/products/c-me580t-pz-2l?variant=41099228283055#)
+- 🔗[Sample Image from ME580TC-PZ-2L-20MBI3 ](https://siliconpr0n.org/map/mos/8521r0/mz/#x=7061&y=4907&z=1)
+
+### How to remove the epoxy housing on a VLSI chip
+
+The method is linked in the article on John Grips [page](https://c128.se/posts/silicon-adventures/ ), Chips a la Antoine. Heat up the epoxy with a hot air station, crack it open with pliers. Works well on the epoxy MOS used, less well on some other brands.
+
