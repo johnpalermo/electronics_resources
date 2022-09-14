@@ -81,3 +81,96 @@ Resources for learning electronics and more.
 
 The method is linked in the article on John Grips [page](https://c128.se/posts/silicon-adventures/ ), Chips a la Antoine. Heat up the epoxy with a hot air station, crack it open with pliers. Works well on the epoxy MOS used, less well on some other brands.
 
+### Other notes on reverse engineering VLSI chips
+
+#### From Discord chat with Johan Grip
+
+
+burnhard — 09/09/2022
+@Johan Grip How so you Go about Reverse engineering ics in General? Do you have the schematic of all the ics of the c128
+
+Johan Grip — 09/09/2022
+Depends on the IC. For the MMU I'm working from the datasheet and observed behaviours. For the PLA I used a microscope to take photos of the silicon and reverse engineered that way.
+
+burnhard — 09/09/2022
+Is there some Info ob how to do this Second Method? I would really Like to learn how to do this.
+
+Johan Grip — 09/09/2022
+I did a write up on my homepage, https://c128.se/posts/silicon-adventures/ though it's not very detailed.
+Second part of my talk at VCF East this year was also about silicon reversing: https://www.youtube.com/watch?v=hMMiyUGEygE
+YouTube
+Vintage Computer Federation
+Commodore 128 Reverse Engineering – Johan Grip
+Image
+
+burnhard — 09/09/2022
+Is there some literature which you could recommend?
+
+Johan Grip — 09/09/2022
+Yes, actually. It does depend on which chips one wants to reverse, in my case I'm pretty much only focusing on MOS/CSG chips so NMOS.
+For that I found https://www.amazon.de/dp/0201043580/ very useful.
+Introduction to Vlsi Systems
+Introduction to Vlsi Systems
+Image
+Learning how to reverse ICs means also learning how they are made.
+
+burnhard — 09/09/2022
+Thank you will give it a try
+What do you use to get rid of the epoxy housing?
+Nitrit Avid?
+Acid
+
+Johan Grip — 09/09/2022
+My method is linked in the article on my page, Chips a la Antoine. Heat up the epoxy with a hot air station, crack it open with pliers. Works well on the epoxy MOS used, less well on some other brands.
+
+burnhard — 09/09/2022
+Thanks I will give it a try
+
+Johan Grip — 09/09/2022
+For microscope you'd need a metallurgical with reflected light. Which one is a whole topic by itself 🙂
+
+burnhard — 09/09/2022
+Do you have a recommendation for me 😉
+
+Johan Grip — 09/09/2022
+It gets tricky straight up. Depends on budget, availability of used ones, what chips one wants to look at, etc. etc.
+My first I bought for this purpose was an AmScope ME580T-PZ-2L which works well optically. I did have problems motorizing the stage but others have had more success.
+This image of a 6526A was taken with that amscope: https://siliconpr0n.org/map/mos/8521r0/mz/
+Today I'm using an Olympus BH2 w/ UMA illuminator and a whole mess of home brew for driving the stage.
+
+burnhard — 09/09/2022
+Thanks for the tip
+
+burnhard — 09/11/2022
+@Johan Grip hello thanks for the much required help
+Do you actually have some personal documentation on the homebrew side, because I saw a decent priced scope (Olympus  BH2 w/ UMA illuminator) on ebay.
+
+Johan Grip — 09/11/2022
+Not documentation as such, but I'm happy to answer questions and help out in any way I can. The core is a small board with an ESP32 running FluidNC, https://github.com/bdring/FluidNC
+GitHub
+GitHub - bdring/FluidNC: The next generation of motion control firm...
+The next generation of motion control firmware. Contribute to bdring/FluidNC development by creating an account on GitHub.
+GitHub - bdring/FluidNC: The next generation of motion control firm...
+This then controls the stepper motors that move the stage around.
+
+burnhard — 09/11/2022
+Thank you I really appreciate it
+
+Johan Grip — 09/11/2022
+Current setup looks like this. Olympus BH2 w/ UMA, mounted on a Nikon base. X/Y linear stages, Z stage, tip/tilt stages all motorized and a manual rotation stage on top. Imaging is a Sony Alpha a6000 with some adaptor optics.
+Image
+
+burnhard — 09/11/2022
+wow this looks great
+what kind of driverboard do you use for the stepper motors
+
+Johan Grip — 09/11/2022
+It's a custom board based on Bart Dring's sixpack board, I mostly just moved to stepper sticks and smaller connectors as I don't need high current. I just wanted a smaller board compared to the original.
+Image
+
+burnhard — 09/11/2022
+Thank you
+
+
+
+
