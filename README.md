@@ -61,11 +61,129 @@ Resources for learning electronics and more.
 - 🔗[The Geek Pub](https://www.thegeekpub.com/)
   Excellent site on learning electronics. Select **LEARNING** on the top menu.
 
-## Learning Anlog Video Electronics
+## Learning Aanlog Video Electronics
 - 🔗[Realtime Composite Video Decoding with PicoScope](https://codeandlife.com/2012/07/31/realtime-composite-video-decoding-with-picoscope/)
   Excellent article on learning about composite video which also contains a project you can learn from.
 - 🔗[Composite video decoding: Theory and practice](https://codeandlife.com/2012/10/09/composite-video-decoding-theory-and-practice/)
   Excellent article on learning about composite video which also contains a project you can learn from.
+
+### From Discord
+
+JohnP — Today at 2:39 PM
+Not sure if this question has been asked before.  I'm trying to learn how to generate a "simple" composite video signal and how to display it on a NTSC CRT TV screen.  Has anyone played around with this sort of stuff?
+And what hardware would I need, such as a signal generator?
+I was referred to this book https://www.amazon.com/dp/0750683953?_gl=1*o3xbu5*_ga*OTE0OTM3NDQ5LjE2NjA5MzAyODY.*_ga_S812YQPLT2*MTY2MzE3NzMzMC4zLjEuMTY2MzE4MDkwMS4wLjAuMA..
+Video Demystified: A Handbook for the Digital Engineer, 5th Edition
+Video Demystified: A Handbook for the Digital Engineer, 5th Edition
+Image
+
+marcy — Today at 2:41 PM
+i have been playing with this stuff !
+mostly in my head still
+
+JohnP — Today at 2:42 PM
+oh sweeet
+
+marcy — Today at 2:42 PM
+but slowly getting closer to
+putting it in a computer
+
+JohnP — Today at 2:42 PM
+how are you figuring out?  do you have a book or a good website?
+
+marcy — Today at 2:44 PM
+the most basic idea is that you have two counters (horizontal position and vertical ) some sort of memory that holds the screen data, another bit of memory that holds the character data (if you’re doing characters), and a shift register
+
+marcy — Today at 2:44 PM
+looking through a lotta older schematics
+especially like
+apple ii
+commodore pet
+
+JohnP — Today at 2:44 PM
+ah cool
+
+marcy — Today at 2:45 PM
+before they started using custom parts
+and also look into don lancaster’s tv typewriter
+
+JohnP — Today at 2:45 PM
+where can I find the schematic for the apple ii?
+
+marcy — Today at 2:45 PM
+and other early video circuits
+
+JohnP — Today at 2:46 PM
+I guess on archive.org, right?
+
+marcy — Today at 2:46 PM
+i actually couldn’t ever find one but i did find a book that describes the circuit :P
+yea probably
+i’m not very organized sorry
+it’s all a lotta timing
+
+JohnP — Today at 2:46 PM
+no worries.  oh, would love that book. do you know the name of it?
+
+marcy — Today at 2:47 PM
+so long as you’ve got the horizontal and vertical sync you can do whatever during the video time
+it’s all analog
+
+JohnP — Today at 2:47 PM
+yah, that's what i'm looking for ... analog
+
+marcy — Today at 2:47 PM
+https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Books/W.%20Gayler%20-%20The%20Apple%20II%20Circuit%20Description.pdf
+i think this is it
+also check out the tv typewriter cookbook
+
+JohnP — Today at 2:48 PM
+nice.  I just happen to have an apple iic.  i'm guessing the circuitry is similar.
+
+marcy — Today at 2:49 PM
+i’m not sure
+
+JohnP — Today at 2:49 PM
+👍
+
+marcy — Today at 2:49 PM
+i think they had consolidated a lot more by the later apple iis 
+oh also have a look at the zx80 circuit
+and the zx spectrum ula
+i’m at that point where i get all the ideas but bad at the logic part
+all the nands and flip flops etc
+oh also uhh
+https://www.pong-story.com/leisure.htm
+wrong page
+https://www.pong-story.com/mags.htm
+
+JohnP — Today at 2:53 PM
+are you gonna make it monochrome?  or are you daring enough to do color?
+
+marcy — Today at 2:53 PM
+swtpc also did a tv terminal at one point might want to look at that
+i think i’d like to do colour
+but idk
+
+JohnP — Today at 2:53 PM
+nice
+
+marcy — Today at 2:54 PM
+like a 2bpp thing
+think vic 20 ish
+and then a register to set the 4 colours
+also have a look at the harlequin spectrum
+ad725 chip
+could be useful
+
+JohnP — Today at 2:55 PM
+cool. thanks
+
+marcy — Today at 2:55 PM
+no problemo
+
+JohnP — Today at 2:58 PM
+i love those old analog screens.  my eyes not so much though.
   
 ## Oscilloscopes
 - 🔗[Pico Oscilloscopes](https://www.picotech.com/oscilloscope/2000/picoscope-2000-overview)
