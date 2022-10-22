@@ -4,7 +4,8 @@ Resources for learning electronics and more.
 - 🔗[More here](https://johnpalermo.github.io/electronics/)
 
 ## Current Projects
-
+  - Nothing Yet
+  
 ## My USB Scope
 - Hantek 6022BE Digital
     - Standard USBXITM interface, easily inserts into USBXITM housing to make up a combination instrument.
