@@ -294,7 +294,7 @@ Thank you
 - 🔗 [Routing Requirements for a USB 2.0 Impedance Interface on a 2-Layer PCB](https://resources.altium.com/p/routing-requirements-usb-20-2-layer-pcb)
 >     Bil Herd — Yesterday at 8:04 PM
 >     Anybody spot anything wrong is this diagram from the atium Website:
->     ![Routing topology for full-speed and high-speed USB 2.0 routing.](https://resources.altium.com/sites/default/files/styles/max_width_1300/public/inline-images/usb-routing-topology_0.webp?itok=Yq89Ds5N)
+      ![Routing topology for full-speed and high-speed USB 2.0 routing.](https://resources.altium.com/sites/default/files/styles/max_width_1300/public/inline-images/usb-routing-topology_0.webp?itok=Yq89Ds5N)
 >     So the issue with the drawing is they have the Host and Peripheral backwards, or at least the 5.1K  For the peripheral, or upward facing port,  the 5.1K should be a pulldown, not a pull-up.
 
 
